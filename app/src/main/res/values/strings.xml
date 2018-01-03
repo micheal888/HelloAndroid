@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="activity_name_main">MainActivity</string>
+    <string name="activity_name_test1">Test1Activity</string>
+    <string name="activity_name_test2">Test2Activity</string>
+    <string name="activity_name_test3">Test3DlgActivity</string>
+    <string name="edittext_hint">Input some text</string>
+    <string name="button1_text">Start Test2Activity</string>
+    <string name="button2_text">Start Test3DlgActivity</string>
+    <string name="button3_text">Start Url</string>
+    <string name="menu_item1_text">Test1Activity</string>
+    <string name="button_quit_text">Quit</string>
+</resources>
