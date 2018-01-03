@@ -105,6 +105,7 @@ public class MainActivity extends BaseActivity {
                 EditText et = (EditText) findViewById(R.id.editTextInfo);
                 String msg = et.getText().toString();
                 MainActivity.actionStart(MainActivity.this, Test1Activity.class, PARAM_KEY1, msg);
+                Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
                 return true;
             }
             case R.id.menu_item2:
